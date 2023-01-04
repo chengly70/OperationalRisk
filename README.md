@@ -1,5 +1,5 @@
 # OperationalRisk
-# Contains code to generate figures/results in "Estimating the Correlation of Operational Risk Losses" by Maurice L. Brown & Cheng Ly
+# Contains code to generate figures/results in "Estimating the correlation between operational risk loss categories over different time horizons" by Maurice L. Brown & Cheng Ly
 
 Sub-directories
 
